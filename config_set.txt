@@ -1,0 +1,3 @@
+no vlan 2555
+no int vlan 2555
+do show ip int brief | i up

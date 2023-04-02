@@ -2,8 +2,8 @@ from netmiko import Netmiko
 
 my_device = {
         'host':'c9300lab',
-        'username':'admin',
-        'password':'Warpcom#2020',
+        'username':'expert',
+        'password':'1234QWer!',
         'device_type':'cisco_ios'
         }
 
